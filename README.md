@@ -1,3 +1,3 @@
 
-IMAGE GALLERY
-calculator
+1.IMAGE GALLERY and 
+2.calculator
